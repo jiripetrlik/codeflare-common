@@ -8,4 +8,5 @@ const (
 	CodeFlareSDKVersion = "v0.20.2"
 	RayVersion          = "2.35.0"
 	RayImage            = "quay.io/modh/ray:2.35.0-py39-cu121"
+	RayAMDGpuImage      = "quay.io/rhoai/ray:2.35.0-py39-rocm61-torch24-fa26"
 )
