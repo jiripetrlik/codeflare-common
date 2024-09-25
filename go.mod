@@ -1,4 +1,4 @@
-module github.com/project-codeflare/codeflare-common
+module github.com/jiripetrlik/codeflare-common
 
 go 1.21
 
